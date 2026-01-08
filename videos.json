@@ -1,0 +1,14 @@
+{
+  "videos": [
+    {
+      "title": "Big Buck Bunny",
+      "poster": "https://peach.blender.org/wp-content/uploads/title_anouncement.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+    {
+      "title": "Elephant Dream",
+      "poster": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Elephants_Dream_s1_proog.jpg/640px-Elephants_Dream_s1_proog.jpg",
+      "url": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4"
+    }
+  ]
+}
